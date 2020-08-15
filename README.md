@@ -1,3 +1,3 @@
 # Exercises-of-HackerRank
 
-Resolved HackRank Exercises
+Resolved HackRank Exercise in JavaScript
